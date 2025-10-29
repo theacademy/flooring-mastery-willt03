@@ -1,2 +1,2 @@
 OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
-1,Will,TX,4.45,Wood,100,5.15,4.75,515.00,475.00,44.06,1034.06
+1,Will,TX,4.45,Wood,123.13,5.15,4.75,634.12,584.87,54.25,1273.24
